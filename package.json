@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/studio-404/carsale-website#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
   }
 }
