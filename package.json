@@ -1,0 +1,23 @@
+{
+  "name": "carsale-website",
+  "version": "1.0.0",
+  "description": "New Car Sale Platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studio-404/carsale-website.git"
+  },
+  "keywords": [
+    "Car",
+    "Sale"
+  ],
+  "author": "Giorgi Gvazava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/studio-404/carsale-website/issues"
+  },
+  "homepage": "https://github.com/studio-404/carsale-website#readme"
+}
