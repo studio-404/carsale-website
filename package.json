@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/studio-404/carsale-website/issues"
   },
-  "homepage": "https://github.com/studio-404/carsale-website#readme"
+  "homepage": "https://github.com/studio-404/carsale-website#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
